@@ -1,0 +1,30 @@
+embedding_size: 64
+feat_embed_dim: 64
+
+n_mm_layers: 1
+n_layers: 2
+knn_k: 10
+mm_image_weight: 0.1
+learning_rate: [0.0001]
+reg_weight: [0.001]
+
+#dropout: [0.3 0.5]
+#dropout: [0.1, 0.3, 0.5, 0.7]
+dropout: [0.5]
+
+#mask_weight_f: [1, 2]
+#mask_weight_f: [1, 1.5, 2, 2.5, 3]
+mask_weight_f: [1.5]
+
+#mask_weight_g: [0, 0.01, 0.1]
+#mask_weight_g: [0.01, 0.001, 0]
+mask_weight_g: [0.0001, 0.001]
+
+#align_weight: [0.1, 0.2, 0.3]
+align_weight: [0.1]
+
+#temp: [0.2, 0.4, 0.8]
+temp: [0.2, 0.4, 0.6]
+#temp: [0.1]
+
+hyper_parameters: ["reg_weight", "learning_rate", 'dropout', 'mask_weight_f', 'mask_weight_g', 'align_weight', 'temp']
