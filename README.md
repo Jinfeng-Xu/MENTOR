@@ -8,7 +8,7 @@ This is the Pytorch implementation for our MENTOR paper:
 
 >MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation
 
-## Enviroment Requirement
+## Environment Requirement
 - python 3.9
 - Pytorch 2.1.0
 
