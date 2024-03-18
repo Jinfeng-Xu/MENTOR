@@ -1,8 +1,3 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-"""
-modified from UNITER
-"""
 import json
 import random
 import sys

@@ -1,10 +1,3 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-
-"""
-###############################
-"""
-
 import logging
 import os
 from utils_package.utils import get_local_time
