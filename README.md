@@ -31,7 +31,7 @@ If you find MENTOR useful in your research, please consider citing our [paper](h
 ```
 @article{xu2024mentor,
   title={MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation},
-  author={Jinfeng Xu and Zheyu Chen and Shuo Yang and Jinze Li and Hewei Wang and Edith C. -H. Ngai},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Hewei and Ngai, Edith C-H},
   journal={arXiv preprint arXiv:2402.19407},
   year={2024}
 }

@@ -1,12 +1,3 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-
-"""
-Main entry
-# UPDATED: 2022-Feb-15
-##########################
-"""
-
 import os
 import argparse
 from utils_package.quick_start import quick_start
